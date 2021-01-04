@@ -1,0 +1,43 @@
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\bin\Debug\MusicBiBit.exe.config
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\bin\Debug\MusicBiBit.exe
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\bin\Debug\MusicBiBit.pdb
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\bin\Debug\Interop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\Interop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\MusicBiBit.csproj.ResolveComReference.cache
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\MusicBiBit.Properties.Resources.resources
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\MusicBiBit.csproj.GenerateResource.cache
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\MusicBiBit.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\MusicBiBit.exe
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\MusicBiBit.pdb
+C:\Users\Марина\source\repos\MusicBiBit\MusicBiBit\obj\Debug\MusicBiBit.BiBit.resources
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\Interop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.csproj.ResolveComReference.cache
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.Properties.Resources.resources
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.csproj.GenerateResource.cache
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.exe
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.pdb
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\bin\Debug\MusicBiBit.exe.config
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\bin\Debug\MusicBiBit.exe
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\bin\Debug\MusicBiBit.pdb
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\bin\Debug\Interop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.MusicBiBit.resources
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Debug\MusicBiBit.exe.config
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Debug\MusicBiBit.exe
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Debug\MusicBiBit.pdb
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Debug\Interop.WMPLib.dll
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Debug\AxInterop.WMPLib.dll
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\Interop.WMPLib.dll
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\AxInterop.WMPLib.dll
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.csproj.ResolveComReference.cache
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.Properties.Resources.resources
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.csproj.GenerateResource.cache
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.csproj.CoreCompileInputs.cache
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.exe
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.pdb
+E:\учёба\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Debug\MusicBiBit.FormMain.resources

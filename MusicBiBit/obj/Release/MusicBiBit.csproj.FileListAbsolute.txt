@@ -1,0 +1,14 @@
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Release\MusicBiBit.exe.config
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Release\MusicBiBit.exe
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Release\MusicBiBit.pdb
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Release\Interop.WMPLib.dll
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\bin\Release\AxInterop.WMPLib.dll
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\Interop.WMPLib.dll
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\AxInterop.WMPLib.dll
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\MusicBiBit.csproj.ResolveComReference.cache
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\MusicBiBit.FormMain.resources
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\MusicBiBit.Properties.Resources.resources
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\MusicBiBit.csproj.GenerateResource.cache
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\MusicBiBit.csproj.CoreCompileInputs.cache
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\MusicBiBit.exe
+E:\шаг\РПО 5 семестр WinForms\экзамен\MusicBiBit v.2\MusicBiBit\obj\Release\MusicBiBit.pdb
